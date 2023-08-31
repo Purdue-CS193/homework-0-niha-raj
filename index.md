@@ -6,41 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-# Niha's New Website 
-## Welcome to my website! 
+# Niha's First CS193 Homework 
+## Welcome to my website!  
 
-My goals for this course are to learn more about all the tools we need to learn so that we can succeed in our next CS classes. 
-
-**Things that I have due in class:**
-- 09/01/2023 - GitHub Assignment - Homework 01 
-- 09/06/2023 - Terminal Commands - Homework 02
-
-**All my classes:**
-1) _CS 180_ - Monday, Wednesday, Friday
-2) _CS 193_ - Thursday
-3) _MA 261_ - Monday, Wednesday, Friday
-4) _POL 101_ - Monday, Wednesday, Friday
-5) _MA 16290_ - Thursday 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Niha's New Website
-## Welcome to my website! 
-### Hello
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**Favorite things about CS193**
+- How fun our instructors Shruti and Arman are
+- How relevant it is to the other classes that we are taking
+- It doesn't have any tests or stressful assignments 
+- The content is easy to understand and entertaining to learn 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
