@@ -6,13 +6,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+# Niha's New Website 
+## Welcome to my website! 
+
+- My goals for this we
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Niha's new website
-## Welcome! 
+# Niha's New Website
+## Welcome to my website! 
 ### Hello
 
 - Bulleted
