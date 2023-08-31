@@ -9,7 +9,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Niha's New Website 
 ## Welcome to my website! 
 
-- My goals for this we
+My goals for this course are to learn more about all the tools we need to learn so that we can succeed in our next CS classes. 
+
+**Things that I have due in class:**
+- 09/01/2023 - GitHub Assignment - Homework 01 
+- 09/06/2023 - Terminal Commands - Homework 02
+
+**All my classes:**
+1) _CS 180_ - Monday, Wednesday, Friday
+2) _CS 193_ - Thursday
+3) _MA 261_ - Monday, Wednesday, Friday
+4) _POL 101_ - Monday, Wednesday, Friday
+5) _MA 16290_ - Thursday 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
